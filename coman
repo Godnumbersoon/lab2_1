@@ -1,0 +1,4 @@
+เลือกโฟร์เดอร์ที่จะเก็ย Git Hub
+git init
+git config --global user.email "6611850014@mut.ac.th"
+git config --global user.name "Godnumbersoon"
